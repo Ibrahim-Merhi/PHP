@@ -5,5 +5,5 @@ function reverse($str){
         echo $str[$i];
     }
 }
-reverse ("Baraa");
+reverse ("Ibrahim");
 ?>
